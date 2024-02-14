@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheShadowProgramming
-- 👀 I’m interested in WebDev, AppDev and WebOps
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in webdev, appdev and Devops
+- 🌱 I’m currently learning webdev
 - 📫 How to reach me :- shoot me an email on monishmprogram@gmail.com
 
 <!---
